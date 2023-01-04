@@ -57,7 +57,7 @@ public class MathJeopardy {
                     break;
                 }
                 else
-                    System.out.println("Sorry that's incorrect");
+                    System.out.println("Sorry that's incorrect.\n The correct answer is 98.");
                 break;
             case 2:
                 System.out.println("55 + 16 =  ");
@@ -68,7 +68,7 @@ public class MathJeopardy {
                     WhichPlayer200();
                     break;
                 } else
-                    System.out.println("Sorry that's incorrect");
+                    System.out.println("Sorry that's incorrect.\n The coorect answer is 71");
                 break;
 
             case 3:
@@ -80,7 +80,7 @@ public class MathJeopardy {
                     WhichPlayer300();
                     break;
                 } else
-                    System.out.println("Sorry that's incorrect");
+                    System.out.println("Sorry that's incorrect.\n The correct answer is 398");
                 break;
             case 4:
                 System.out.println("307 + 1028 =  ");
@@ -91,7 +91,7 @@ public class MathJeopardy {
                     WhichPlayer400();
                     break;
                 } else
-                    System.out.println("Sorry that's incorrect");
+                    System.out.println("Sorry that's incorrect.\n The correct answer is 1335");
                 break;
             default:
                 System.out.println("Please enter valid choice");
@@ -117,7 +117,7 @@ public class MathJeopardy {
                     WhichPlayer100();
                     break;
                 } else
-                    System.out.println("Sorry that's incorrect");
+                    System.out.println("Sorry that's incorrect.\n The correct answer is 72");
                 break;
             case 2:
                 System.out.println("78 - 17 =  ");
@@ -128,7 +128,7 @@ public class MathJeopardy {
                     WhichPlayer200();
                     break;
                 } else
-                    System.out.println("Sorry that's incorrect");
+                    System.out.println("Sorry that's incorrect.\n The correct answer is 61");
                 break;
 
             case 3:
@@ -140,7 +140,7 @@ public class MathJeopardy {
                     WhichPlayer300();
                     break;
                 } else
-                    System.out.println("Sorry that's incorrect");
+                    System.out.println("Sorry that's incorrect.\n The correct answer is 246");
                 break;
             case 4:
                 System.out.println("1853 + 357 =  ");
@@ -151,7 +151,7 @@ public class MathJeopardy {
                     WhichPlayer400();
                     break;
                 } else
-                    System.out.println("Sorry that's incorrect");
+                    System.out.println("Sorry that's incorrect.\n The correct answer is 1496");
                 break;
             default:
                 System.out.println("Please enter valid choice");
@@ -178,7 +178,7 @@ public class MathJeopardy {
                     WhichPlayer100();
                     break;
                 } else
-                    System.out.println("Sorry that's incorrect");
+                    System.out.println("Sorry that's incorrect.\n The correct answer is 60");
                 break;
             case 2:
                 System.out.println("12 * 8 =  ");
@@ -189,7 +189,7 @@ public class MathJeopardy {
                     WhichPlayer200();
                     break;
                 } else
-                    System.out.println("Sorry that's incorrect");
+                    System.out.println("Sorry that's incorrect.\n The correct answer is 96");
                 break;
 
             case 3:
@@ -201,7 +201,7 @@ public class MathJeopardy {
                     WhichPlayer300();
                     break;
                 } else
-                    System.out.println("Sorry that's incorrect");
+                    System.out.println("Sorry that's incorrect.\n The correct answer is 1326");
                 break;
             case 4:
                 System.out.println("104 * 83 =  ");
@@ -212,7 +212,7 @@ public class MathJeopardy {
                     WhichPlayer400();
                     break;
                 } else
-                    System.out.println("Sorry that's incorrect");
+                    System.out.println("Sorry that's incorrect.\n The correct answer is 8632");
                 break;
             default:
                 System.out.println("Please enter valid choice");
@@ -238,7 +238,7 @@ public class MathJeopardy {
                     WhichPlayer100();
                     break;
                 } else
-                    System.out.println("Sorry that's incorrect");
+                    System.out.println("Sorry that's incorrect.\n The correct answer is 11");
                 break;
             case 2:
                 System.out.println("42 / 6 =  ");
@@ -249,7 +249,7 @@ public class MathJeopardy {
                     WhichPlayer200();
                     break;
                 } else
-                    System.out.println("Sorry that's incorrect");
+                    System.out.println("Sorry that's incorrect.\n The correct answer is 7");
                 break;
 
             case 3:
@@ -261,7 +261,7 @@ public class MathJeopardy {
                     WhichPlayer300();
                     break;
                 } else
-                    System.out.println("Sorry that's incorrect");
+                    System.out.println("Sorry that's incorrect.\n The correct answer is 12");
                 break;
             case 4:
                 System.out.println("165 / 3 =  ");
@@ -272,7 +272,7 @@ public class MathJeopardy {
                     WhichPlayer400();
                     break;
                 } else
-                    System.out.println("Sorry that's incorrect");
+                    System.out.println("Sorry that's incorrect..\n The correct answer is 55");
                 break;
             default:
                 System.out.println("Please enter valid choice");
